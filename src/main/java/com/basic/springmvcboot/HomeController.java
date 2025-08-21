@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import com.basic.springmvcboot.model.Alien;
 import com.basic.springmvcboot.repository.AlienRepository;
 
-//Before REST Service
+
 @Controller
 public class HomeController {
 
